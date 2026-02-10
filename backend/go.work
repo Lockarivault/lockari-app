@@ -1,0 +1,13 @@
+go 1.25.0
+
+use (
+	./libs/createmodule
+	./libs/database/nosql
+	./libs/database/cache
+	./libs/encryption
+	./libs/loggers
+	./libs/telemetry
+	./libs/uuid
+	./libs/webserver
+	./services/controlplane
+)
