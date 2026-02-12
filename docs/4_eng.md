@@ -140,3 +140,12 @@ Recomenda-se o uso de `gqlgen` no BFF para agregar dados de múltiplos microserv
 
 ---
 *Especificação Técnica - v1.0 - Fevereiro de 2026*
+
+
+
+Falando de projetos, ano passado comecei, mas acabei não dando continuidade.  Mas ainda penso em um projeto de gestão de secrets para empresas.
+
+Muito focado em processo de automações, deploy e auditoria.  
+
+Algo semelhante ao Hashicorp Vault, mas com uma interface melhor, e com um sistema de proxy
+
