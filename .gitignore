@@ -13,8 +13,9 @@ coverage.out
 coverage.txt
 */coverage.txt
 
-
 ## Diretório scripts
 */scripts/*
+*/scripts/
 *.sh
 */*.sh
+backend/services/*/scripts/
