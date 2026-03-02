@@ -1,0 +1,5 @@
+mode: atomic
+github.com/lockarivault/lockari-app/backend/libs/uuid/uuid.go:23.17,26.2 2 5
+github.com/lockarivault/lockari-app/backend/libs/uuid/uuid.go:31.25,33.2 1 5
+github.com/lockarivault/lockari-app/backend/libs/uuid/uuid.go:37.36,39.2 1 2
+github.com/lockarivault/lockari-app/backend/libs/uuid/uuid.go:44.29,47.2 2 1
