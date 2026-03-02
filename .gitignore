@@ -1,0 +1,20 @@
+
+# Arquivos YAML
+config.yaml
+*/config.yaml
+
+# Arquivos compactados
+*/*.tar.gz
+
+# arquivos coverage
+coverage.out
+*/coverage.out
+
+coverage.txt
+*/coverage.txt
+
+
+## Diretório scripts
+*/scripts/*
+*.sh
+*/*.sh
